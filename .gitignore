@@ -1,0 +1,11 @@
+.DS_Store
+~$*
+*.tmp
+*.bak
+*.log
+
+# Local/private evidence and test configuration
+evidence/
+.env
+.env.*
+!.env.example
